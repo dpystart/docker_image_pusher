@@ -1,3 +1,4 @@
 centos/systemd:latest
+alpine
 #支持指定架构 
 --platform=linux/amd64 
