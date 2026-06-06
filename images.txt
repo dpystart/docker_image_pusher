@@ -1,4 +1,3 @@
-centos/systemd:latest
-alpine:latest
+willhallonline/ansible:latest 
 #支持指定架构 
 --platform=linux/amd64 
